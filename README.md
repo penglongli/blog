@@ -10,3 +10,6 @@
 
 ### mariadb
 1. [MariaDB 主从同步出错，重新开始]()
+
+
+![image](image.jpg)
