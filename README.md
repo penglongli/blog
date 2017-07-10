@@ -3,7 +3,7 @@
 
 ### Bash
 1. [Bash 脚本判断文件是否增加软链接](bash/bash_judge_ln.md)
-2. [Bash 脚本读取文件，根据空格分割行]()
+2. [Bash 脚本读取文件，根据空格分割行](bash/read_file_space_split.md)
 
 ### Linux
 1. [Linux 工具之 screen 的使用]()
