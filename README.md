@@ -6,7 +6,7 @@
 2. [Bash 脚本读取文件，根据空格分割行](bash/read_file_space_split.md)
 
 ### Linux
-1. [Linux 工具之 screen 的使用]()
+1. [Linux 工具之 screen 的使用](linux/screen.md)
 
 ### mariadb
 1. [MariaDB 主从同步出错，重新开始]()
