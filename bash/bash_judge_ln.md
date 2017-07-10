@@ -89,3 +89,20 @@ echo "Completed!"
 ```
 
 其实写这么麻烦是为了演示，如果真要实现这个的话，检查都不用检查，直接一梭子把 dir*/dir.sh 文件强制重新刷新软链就行，顶多再加一个判断 dir*/dir.sh 的绝对路径是不是正确的。
+
+## 查看目录
+
+```
+$ tree .
+.
+├── add_ln.sh
+├── dir1
+│   └── dir.sh -> /Users/Pelin/tmp/ln_test/test.sh
+├── dir2
+│   └── dir.sh -> /Users/Pelin/tmp/ln_test/test.sh
+├── dir3
+│   └── dir.sh -> /Users/Pelin/tmp/ln_test/test.sh
+└── test.sh
+
+3 directories, 5 files
+```
