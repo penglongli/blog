@@ -11,5 +11,5 @@
 ### mariadb
 1. [MariaDB 主从同步出错，重新开始](mariadb/percona_re_sync.md)
 
+### 漫谈
 
-![image](image.jpg)
