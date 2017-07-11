@@ -9,7 +9,7 @@
 1. [Linux 工具之 screen 的使用](linux/screen.md)
 
 ### mariadb
-1. [MariaDB 主从同步出错，重新开始]()
+1. [MariaDB 主从同步出错，重新开始](mariadb/percona_re_sync.md)
 
 
 ![image](image.jpg)
