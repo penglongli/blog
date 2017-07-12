@@ -11,5 +11,8 @@
 ### mariadb
 1. [MariaDB 主从同步出错，重新开始](mariadb/percona_re_sync.md)
 
+### Ansible
+1. [Ansible 初探](ansible/first.md)
+
 ### 漫谈
 
