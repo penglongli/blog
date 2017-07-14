@@ -10,6 +10,7 @@
 
 ### Linux
 1. [Linux 工具之 screen 的使用](linux/screen.md)
+2. [Linux 工具之 LVM 的使用](linux/lvm_use.md)
 
 ### mariadb
 1. [MariaDB 主从同步出错，重新开始](mariadb/percona_re_sync.md)
