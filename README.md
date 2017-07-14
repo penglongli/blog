@@ -19,4 +19,4 @@
 1. [Ansible 初探](ansible/first.md)
 
 ### 漫谈
-
+1. [《拉普拉斯的魔女》][talk/lapulasi_de_monv.md]
