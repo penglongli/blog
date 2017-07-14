@@ -20,3 +20,4 @@
 
 ### 漫谈
 1. [《拉普拉斯的魔女》](talk/lapulasi_de_monv.md)
+2. [《天才在左，疯子在右》一本“奇怪”的书](talk/genius_madman.md)
