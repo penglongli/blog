@@ -130,3 +130,4 @@
 
 ### 我从北方来，要到何处去
 1. [序言](where_go/preface.md)
+2. [戒烟](where_go/give_up_somking.md)
