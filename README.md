@@ -129,4 +129,4 @@
 2. [《天才在左，疯子在右》一本“奇怪”的书，从别人的角度看世界](talk/genius_madman.md)
 
 ### 我从北方来，要到何处去
-1. [序言](where_go/preface)
+1. [序言](where_go/preface.md)
