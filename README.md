@@ -127,7 +127,7 @@
 ### 漫谈
 1. [《拉普拉斯的魔女》](talk/lapulasi_de_monv.md)
 2. [《天才在左，疯子在右》一本“奇怪”的书，从别人的角度看世界](talk/genius_madman.md)
-3. [《你心柔软，却有力量》](task/linqingxuan.md)
+3. [《你心柔软，却有力量》](talk/linqingxuan.md)
 
 ### 我从北方来，要到何处去
 1. [序言](where_go/preface.md)
