@@ -8,3 +8,6 @@ Ansible 是一个自动化运维的工具，可以用来管理远程主机、部
 - [Ansible 官方文档](http://docs.ansible.com/ansible/index.html)
 - [Ansible 中文文档](http://ansible-tran.readthedocs.io/en/latest/docs/intro.html)
 - [Ansible Github](https://github.com/ansible/ansible)
+
+Ansible 安装文档：
+- [Ansible 安装](http://docs.ansible.com/ansible/latest/intro_installation.html#latest-releases-via-apt-ubuntu)
