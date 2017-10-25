@@ -8,21 +8,22 @@
 
 ## Bash
 
-1. [Bash 脚本判断文件是否增加软链接](bash/bash_judge_ln.md)
-2. [Bash 脚本读取文件，根据空格分割行](bash/read_file_space_split.md)
+1. [Bash 脚本判断文件是否增加软链接](https://github.com/penglongli/blog/issues/1)
+2. [Bash 脚本读取文件，根据空格分割行](https://github.com/penglongli/blog/issues/2)
+3. [Bash 下 Etcdctl 递归删除某个键](https://github.com/penglongli/blog/issues/3)
 
 
 
 ## Linux
 
-1. [Linux 工具之 screen 的使用](linux/screen.md)
+1. [Linux 工具之 screen 的使用](https://github.com/penglongli/blog/issues/4)
 2. [Linux 工具之 LVM 的使用](linux/lvm_use.md)
 
 
 
 ## DB
 
-1. [MariaDB 主从同步出错，重新开始](mariadb/percona_re_sync.md)
+1. [MariaDB 主从同步出错，重新开始](https://github.com/penglongli/blog/issues/5)
 2. [数据库三大范式]()
 3. [MariaDB/MySQL 编写存储过程、视图、触发器]()
 4. [数据库的事务]()
@@ -37,8 +38,8 @@
 
 ## Ansible
 
-1. [Ansible 初探](ansible/first.md)
-2. [Ansible 使用 user/pass 方式链接远程主机](ansible/ping_user_pass.md)
+1. [Ansible 初探](https://github.com/penglongli/blog/issues/6)
+2. [Ansible 使用 user/pass 方式链接远程主机](https://github.com/penglongli/blog/issues/7)
 3. [Ansible 推送公钥](ansible/push_ssh_key)
 4. [Ansible 修改文件](ansible/change_file)
 5. [Ansible 安装 Docker](ansible/install_docker)
@@ -66,12 +67,13 @@
 3. [Dockerfile 制作](docker/dockerfile.md)
 4. [Docker 常规操作](docker/operate.md)
 5. [Docker-Compose 详解](docker/docker_compose.md)
-  6  [Docker Registry 制作](docker/docker_registry.md)
-6. [Docker 构建简单构建 Java Web 应用](docker/build_java_app.md)
-7. [Dcoker 构建 Redis 集群](docker/build_redis_cluster.md)
-8. [Docker 构建 Node 应用](docker/build_node.md)
-9. [Docker 构建 Go 应用](docker/build_go.md)
-10. [Docker 构建 Python 应用](docker/build_python.md)
+6. [Docker Registry 制作](docker/docker_registry.md)
+7. [Docker 构建简单构建 Java Web 应用](docker/build_java_app.md)
+8. [Dcoker 构建 Redis 集群](docker/build_redis_cluster.md)
+9. [Docker 构建 Node 应用](docker/build_node.md)
+10. [Docker 构建 Go 应用](docker/build_go.md)
+11. [Docker 构建 Python 应用](docker/build_python.md)
+12. [使用 HAProxy + Keepalived 构建基于 Docker 的高可用负载均衡服务(一)](https://github.com/penglongli/blog/issues/9)
 
 
 
@@ -122,11 +124,16 @@
 
 ## JVM
 
-1. [Java 内存区域和 OOM]()
-2. [Java 的垃圾收集]()
-3. [JVM 监控工具]()
-4. [JVM 调优]()
-
+1. [JVM 内存区域和 OOM](https://github.com/penglongli/blog/issues/10)
+2. [JVM 内存溢出及栈溢出演示](jvm/memory_out_sample.md)
+3. [JVM 内存区域设定及计算](jvm/memory_calc.md)
+4. [Java 的垃圾收集](jvm/gc.md)
+5. [JVM 监控工具及故障处理工具](jvm/monitor.md)
+6. [JVM 调优](jvm/adjust_optimize.md)
+7. [JVM 字节码文件结构](jvm/class_structure.md)
+8. [JVM 类加载机制](jvm/class_loader.md)
+9. [代码优化（一）](jvm/code_optimize_1.md)
+10. [代码优化（二）](jvm/code_optimize_2.md)
 
 
 ## Spring
