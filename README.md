@@ -21,6 +21,7 @@
 3. [VIM 使用](https://github.com/penglongli/blog/issues/11)
 4. [Linux 之 NFS 环境搭建和使用](https://github.com/penglongli/blog/issues/12)
 5. [Linux 网络相关](https://github.com/penglongli/blog/issues/13)
+6. [Linux 常用工具](https://github.com/penglongli/blog/issues/14)
 
 ## DB
 
