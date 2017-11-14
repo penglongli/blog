@@ -16,12 +16,13 @@
 
 ## Linux
 
-1. [Linux 工具之 screen 的使用](https://github.com/penglongli/blog/issues/4)
-2. [Linux 工具之 LVM 的使用](linux/lvm_use.md)
+1. [Linux 下 screen 的使用](https://github.com/penglongli/blog/issues/4)
+2. [Linux 下 LVM 的使用](linux/lvm_use.md)
 3. [VIM 使用](https://github.com/penglongli/blog/issues/11)
-4. [Linux 之 NFS 环境搭建和使用](https://github.com/penglongli/blog/issues/12)
+4. [Linux 下 NFS 环境搭建和使用](https://github.com/penglongli/blog/issues/12)
 5. [Linux 网络相关](https://github.com/penglongli/blog/issues/13)
 6. [Linux 常用工具](https://github.com/penglongli/blog/issues/14)
+7. [Linux 下使用 autofs 挂载 nfs](https://github.com/penglongli/blog/issues/15)
 
 ## DB
 
