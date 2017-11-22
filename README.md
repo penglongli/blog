@@ -11,7 +11,7 @@
 1. [Bash 脚本判断文件是否增加软链接](https://github.com/penglongli/blog/issues/1)
 2. [Bash 脚本读取文件，根据空格分割行](https://github.com/penglongli/blog/issues/2)
 3. [Bash 下 Etcdctl 递归删除某个键](https://github.com/penglongli/blog/issues/3)
-
+4. [Bash 批量判断 IP 被占用](https://github.com/penglongli/blog/issues/16)
 
 
 ## Linux
@@ -66,11 +66,11 @@
 ## Docker
 
 1. [Docker 简介](docker/guide.md)
-2. [Docker 安装及国内镜像](docker/install.md)
-3. [Dockerfile 制作](docker/dockerfile.md)
-4. [Docker 常规操作](docker/operate.md)
-5. [Docker-Compose 详解](docker/docker_compose.md)
-6. [Docker Registry 制作](docker/docker_registry.md)
+2. [Docker 搭建自用 registry](https://github.com/penglongli/blog/issues/17)
+3. [Docker 安装及国内镜像](docker/install.md)
+4. [Dockerfile 制作](docker/dockerfile.md)
+5. [Docker 常规操作](docker/operate.md)
+6. [Docker-Compose 详解](docker/docker_compose.md)
 7. [Docker 构建简单构建 Java Web 应用](docker/build_java_app.md)
 8. [Dcoker 构建 Redis 集群](docker/build_redis_cluster.md)
 9. [Docker 构建 Node 应用](docker/build_node.md)
