@@ -1,8 +1,4 @@
-# 博客列表
-
-所有文章均会以实践为基础，不会单纯讲解概念性的东西，因为概念性的东西很难讲、也很难给别人讲懂。在“狗博”建立起来之前，会一直使用这篇 Repo 更新文章。
-
-感谢观看，[“狗博”的 Repo](https://github.com/dblogcorp) 本预计在 17 年圣诞节完成，但由于懒散，初步定在 18 年 4 月 1 日愚人节能够正式上线内测版本，预计 18 年 6 月 1 日正式上线。
+# 笔记
 
 目前很多文章都只是一个目录，并没有内容。
 
@@ -12,6 +8,7 @@
 2. [Bash 脚本读取文件，根据空格分割行](https://github.com/penglongli/blog/issues/2)
 3. [Bash 下 Etcdctl 递归删除某个键](https://github.com/penglongli/blog/issues/3)
 4. [Bash 批量判断 IP 被占用](https://github.com/penglongli/blog/issues/16)
+5. [Bash 之 sed 与 envsubst 的使用](https://github.com/penglongli/blog/issues/23)
 
 
 ## Linux
@@ -23,6 +20,52 @@
 5. [Linux 网络相关](https://github.com/penglongli/blog/issues/13)
 6. [Linux 常用工具](https://github.com/penglongli/blog/issues/14)
 7. [Linux 下使用 autofs 挂载 nfs](https://github.com/penglongli/blog/issues/15)
+8. [Linux strace 使用](https://github.com/penglongli/blog/issues/18)
+9. [Linux iPerf 使用](https://github.com/penglongli/blog/issues/19)
+10. [Linux 下 rsync 与 scp](https://github.com/penglongli/blog/issues/20)
+11. [使用 bind98 搭建 DNS Server](https://github.com/penglongli/blog/issues/21)
+12. [Linux 下的 SSH ](https://github.com/penglongli/blog/issues/22)
+13. [Linux 下的 logrotate 与 rsylog 使用](https://github.com/penglongli/blog/issues/23)
+
+## Ansible
+
+1. [Ansible 初探](https://github.com/penglongli/blog/issues/6)
+2. [Ansible 使用 user/pass 方式链接远程主机](https://github.com/penglongli/blog/issues/7)
+3. [Ansible 推送公钥](ansible/push_ssh_key)
+4. [Ansible 修改文件](ansible/change_file)
+5. [Ansible 安装 Docker](ansible/install_docker)
+
+
+
+## Nginx
+
+1. [Nginx 的使用及基于 Docker 的 Nginx](https://github.com/penglongli/blog/issues/31)
+2. [Tengine 的使用及基于 Docker 的 Tengine](https://github.com/penglongli/blog/issues/32)
+3. [Nginx 常用语法](https://github.com/penglongli/blog/issues/33)
+4. [Tengine 常用模块](https://github.com/penglongli/blog/issues/34)
+
+## Docker
+
+1. [Docker 简介](docker/guide.md)
+2. [Docker 搭建自用 registry](https://github.com/penglongli/blog/issues/17)
+3. [Docker 自定义制作基础镜像](https://github.com/penglongli/blog/issues/28)
+4. [Docker 构建应用](https://github.com/penglongli/blog/issues/29)
+5. [Dcoker 构建 Redis 集群](docker/build_redis_cluster.md)
+6. [使用 HAProxy + Keepalived 构建基于 Docker 的高可用负载均衡服务(一)](https://github.com/penglongli/blog/issues/9)
+
+
+## Kubernetes
+
+1. [从零搭建一个简单的 Kubernetes 集群](https://github.com/penglongli/blog/issues/25)
+
+
+
+## 运维相关
+
+1. [基于 Docker 的 Jenkins 使用]()
+2. [ELK 实时日志分析平台搭建]()
+
+
 
 ## DB
 
@@ -38,45 +81,11 @@
 
 
 
-
-## Ansible
-
-1. [Ansible 初探](https://github.com/penglongli/blog/issues/6)
-2. [Ansible 使用 user/pass 方式链接远程主机](https://github.com/penglongli/blog/issues/7)
-3. [Ansible 推送公钥](ansible/push_ssh_key)
-4. [Ansible 修改文件](ansible/change_file)
-5. [Ansible 安装 Docker](ansible/install_docker)
-
-
-
 ## Etcd
 
-1. [Etcd 初探](etcd/guide.md)
-2. [Etcd 安装使用](etcd/install.md)
-3. [Etcdctl 安装使用](etcd/etcdctl.md)
+1. [Etcd 简单介绍](https://github.com/penglongli/blog/issues/30)
+2. [Etcd 集群搭建及 Etcdctl 工具](https://github.com/penglongli/blog/issues/26)
 
-
-
-## Nginx
-
-
-
-
-
-## Docker
-
-1. [Docker 简介](docker/guide.md)
-2. [Docker 搭建自用 registry](https://github.com/penglongli/blog/issues/17)
-3. [Docker 安装及国内镜像](docker/install.md)
-4. [Dockerfile 制作](docker/dockerfile.md)
-5. [Docker 常规操作](docker/operate.md)
-6. [Docker-Compose 详解](docker/docker_compose.md)
-7. [Docker 构建简单构建 Java Web 应用](docker/build_java_app.md)
-8. [Dcoker 构建 Redis 集群](docker/build_redis_cluster.md)
-9. [Docker 构建 Node 应用](docker/build_node.md)
-10. [Docker 构建 Go 应用](docker/build_go.md)
-11. [Docker 构建 Python 应用](docker/build_python.md)
-12. [使用 HAProxy + Keepalived 构建基于 Docker 的高可用负载均衡服务(一)](https://github.com/penglongli/blog/issues/9)
 
 
 
@@ -193,19 +202,4 @@
 
 ## 网络安全
 
-
-
-## 漫谈
-
-1. [《拉普拉斯的魔女》](talk/lapulasi_de_monv.md)
-2. [《天才在左，疯子在右》一本“奇怪”的书，从别人的角度看世界](talk/genius_madman.md)
-3. [《你心柔软，却有力量》](talk/linqingxuan.md)
-
-
-
-## 我从北方来，要到何处去
-
-1. [序言](where_go/preface.md)
-2. [8月14日晚的骑行](where_go/0814.md)
-3. [一个人吃火锅](where_go/20170917.md)
 
