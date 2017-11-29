@@ -8,7 +8,7 @@
 2. [Bash 脚本读取文件，根据空格分割行](https://github.com/penglongli/blog/issues/2)
 3. [Bash 下 Etcdctl 递归删除某个键](https://github.com/penglongli/blog/issues/3)
 4. [Bash 批量判断 IP 被占用](https://github.com/penglongli/blog/issues/16)
-5. [Bash 之 sed 与 envsubst 的使用](https://github.com/penglongli/blog/issues/23)
+5. [Bash 之 sed 与 envsubst 的使用](https://github.com/penglongli/blog/issues/24)
 
 
 ## Linux
