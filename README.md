@@ -26,6 +26,8 @@
 11. [使用 bind98 搭建 DNS Server](https://github.com/penglongli/blog/issues/21)
 12. [Linux 下的 SSH ](https://github.com/penglongli/blog/issues/22)
 13. [Linux 下的 logrotate 与 rsylog 使用](https://github.com/penglongli/blog/issues/23)
+14. [Linux 下的 grep 命令](https://github.com/penglongli/blog/issues/35)
+15. [Linux 下的 awk 命令](https://github.com/penglongli/blog/issues/36)
 
 ## Ansible
 
@@ -59,13 +61,10 @@
 1. [从零搭建一个简单的 Kubernetes 集群](https://github.com/penglongli/blog/issues/25)
 
 
-
 ## 运维相关
 
 1. [基于 Docker 的 Jenkins 使用]()
 2. [ELK 实时日志分析平台搭建]()
-
-
 
 ## DB
 
@@ -85,8 +84,6 @@
 
 1. [Etcd 简单介绍](https://github.com/penglongli/blog/issues/30)
 2. [Etcd 集群搭建及 Etcdctl 工具](https://github.com/penglongli/blog/issues/26)
-
-
 
 
 ## Golang
