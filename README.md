@@ -84,7 +84,7 @@
 
 1. [Etcd 简单介绍](https://github.com/penglongli/blog/issues/30)
 2. [Etcd 集群搭建及 Etcdctl 工具](https://github.com/penglongli/blog/issues/26)
-
+3. [Etcd 集群数据迁移(v2)](https://github.com/penglongli/blog/issues/38)
 
 ## Golang
 
