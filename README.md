@@ -33,10 +33,8 @@
 
 1. [Ansible 初探](https://github.com/penglongli/blog/issues/6)
 2. [Ansible 使用 user/pass 方式链接远程主机](https://github.com/penglongli/blog/issues/7)
-3. [Ansible 推送公钥](ansible/push_ssh_key)
-4. [Ansible 修改文件](ansible/change_file)
-5. [Ansible 安装 Docker](ansible/install_docker)
-
+3. [Ansible 推送公钥](https://github.com/penglongli/blog/issues/39)
+4. [Ansible 修改文件](https://github.com/penglongli/blog/issues/40)
 
 
 ## Nginx
