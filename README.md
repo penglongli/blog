@@ -10,6 +10,7 @@
 4. [Bash 批量判断 IP 被占用](https://github.com/penglongli/blog/issues/16)
 5. [Bash 之 sed 与 envsubst 的使用](https://github.com/penglongli/blog/issues/24)
 6. [Bash 的集合](https://github.com/penglongli/blog/issues/45)
+7. [Bash 的别名以及自动补全](https://github.com/penglongli/blog/issues/48)
 
 
 ## Linux
@@ -23,12 +24,14 @@
 7. [Linux 下使用 autofs 挂载 nfs](https://github.com/penglongli/blog/issues/15)
 8. [Linux strace 使用](https://github.com/penglongli/blog/issues/18)
 9. [Linux iPerf 使用](https://github.com/penglongli/blog/issues/19)
-10. [Linux 下 rsync 与 scp](https://github.com/penglongli/blog/issues/20)
-11. [使用 bind98 搭建 DNS Server](https://github.com/penglongli/blog/issues/21)
-12. [Linux 下的 SSH ](https://github.com/penglongli/blog/issues/22)
-13. [Linux 下的 logrotate 与 rsylog 使用](https://github.com/penglongli/blog/issues/23)
-14. [Linux 下的 grep 命令](https://github.com/penglongli/blog/issues/35)
-15. [Linux 下的 awk 命令](https://github.com/penglongli/blog/issues/36)
+10. [Linux cURL 的使用](https://github.com/penglongli/blog/issues/41)
+11. [Linux 下 rsync 与 scp](https://github.com/penglongli/blog/issues/20)
+12. [使用 bind98 搭建 DNS Server](https://github.com/penglongli/blog/issues/21)
+13. [Linux 下的 SSH ](https://github.com/penglongli/blog/issues/22)
+14. [Linux 下的 logrotate 与 rsylog 使用](https://github.com/penglongli/blog/issues/23)
+15. [Linux 下的 grep 命令](https://github.com/penglongli/blog/issues/35)
+16. [Linux 下的 awk 命令](https://github.com/penglongli/blog/issues/36)
+17. [Linux 防火墙以及 Ubuntu 的 GFW](https://github.com/penglongli/blog/issues/49)
 
 ## Ansible
 
@@ -36,6 +39,7 @@
 2. [Ansible 使用 user/pass 方式链接远程主机](https://github.com/penglongli/blog/issues/7)
 3. [Ansible 推送公钥](https://github.com/penglongli/blog/issues/39)
 4. [Ansible 修改文件](https://github.com/penglongli/blog/issues/40)
+5. [Ansible 批量测试机器端口](https://github.com/penglongli/blog/issues/46)
 
 
 ## Nginx
@@ -47,9 +51,9 @@
 
 ## Docker
 
-1. [Docker 简介](docker/guide.md)
-2. [Docker 搭建自用 registry](https://github.com/penglongli/blog/issues/17)
-3. [Docker 自定义制作基础镜像](https://github.com/penglongli/blog/issues/28)
+1. [Docker 搭建自用 registry](https://github.com/penglongli/blog/issues/17)
+2. [Docker 自定义制作基础镜像](https://github.com/penglongli/blog/issues/28)
+3. [Docker 的守护进程](https://github.com/penglongli/blog/issues/52)
 4. [Docker 构建应用](https://github.com/penglongli/blog/issues/29)
 5. [Dcoker 构建 Redis 集群](docker/build_redis_cluster.md)
 6. [使用 HAProxy + Keepalived 构建基于 Docker 的高可用负载均衡服务(一)](https://github.com/penglongli/blog/issues/9)
@@ -62,8 +66,8 @@
 
 ## 运维相关
 
-1. [基于 Docker 的 Jenkins 使用]()
-2. [ELK 实时日志分析平台搭建]()
+1. [基于 Docker 的 Jenkins 使用](https://github.com/penglongli/blog/issues/51)
+2. [ELK 实时日志分析平台搭建](https://github.com/penglongli/blog/issues/50)
 3. [Prometheus 监控、报警平台搭建及使用](https://github.com/penglongli/blog/issues/37)
 
 ## DB
@@ -88,9 +92,9 @@
 
 ## Golang
 
-1. [Go 安装及使用](go/install.md)
-2. [Go 语言基础](go/bais.md)
-3. [Go 构建简单的 Web 应用](go/build_web.md)
+1. [go 的字符串操作](https://github.com/penglongli/blog/issues/43)
+2. [defer 关键字使用](https://github.com/penglongli/blog/issues/44)
+3. [go 的 net/http 包的使用以及了解](https://github.com/penglongli/blog/issues/42)
 
 
 
