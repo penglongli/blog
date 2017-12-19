@@ -10,7 +10,9 @@
 4. [Bash 批量判断 IP 被占用](https://github.com/penglongli/blog/issues/16)
 5. [Bash 之 sed 与 envsubst 的使用](https://github.com/penglongli/blog/issues/24)
 6. [Bash 的集合](https://github.com/penglongli/blog/issues/45)
-7. [Bash 的别名以及自动补全](https://github.com/penglongli/blog/issues/48)
+7. [Bash 运算符](https://github.com/penglongli/blog/issues/53)
+8. [Bash 的别名以及自动补全](https://github.com/penglongli/blog/issues/48)
+9. [Bash completion](https://github.com/penglongli/blog/issues/54)
 
 
 ## Linux
