@@ -11,7 +11,7 @@
 5. [Bash 之 sed 与 envsubst 的使用](https://github.com/penglongli/blog/issues/24)
 6. [Bash 的集合](https://github.com/penglongli/blog/issues/45)
 7. [Bash 运算符](https://github.com/penglongli/blog/issues/53)
-8. [Bash 的别名以及自动补全](https://github.com/penglongli/blog/issues/48)
+8. [Bash Aliases and Functions](https://github.com/penglongli/blog/issues/48)
 9. [Bash completion](https://github.com/penglongli/blog/issues/54)
 
 
@@ -42,7 +42,7 @@
 3. [Ansible 推送公钥](https://github.com/penglongli/blog/issues/39)
 4. [Ansible 修改文件](https://github.com/penglongli/blog/issues/40)
 5. [Ansible 批量测试机器端口](https://github.com/penglongli/blog/issues/46)
-
+6. [Ansible Codition](https://github.com/penglongli/blog/issues/55)
 
 ## Nginx
 
