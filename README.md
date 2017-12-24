@@ -49,7 +49,7 @@
 1. [基于 Docker 的 Nginx](https://github.com/penglongli/blog/issues/31)
 2. [基于 Docker 的 Tengine](https://github.com/penglongli/blog/issues/32)
 3. [Nginx 使用（一）：location 的匹配](https://github.com/penglongli/blog/issues/33)
-4，[Nginx 使用（二）：代理以及配置]()
+4. [Nginx 使用（二）：代理以及配置]()
 5. [Nginx 使用（三）：负载均衡]()
 6. [Nginx 使用（四）：日志]()
 7. [Tengine 常用模块](https://github.com/penglongli/blog/issues/34)
