@@ -34,6 +34,7 @@
 15. [Linux 下的 grep 命令](https://github.com/penglongli/blog/issues/35)
 16. [Linux 下的 awk 命令](https://github.com/penglongli/blog/issues/36)
 17. [Linux 防火墙以及 Ubuntu 的 GFW](https://github.com/penglongli/blog/issues/49)
+18. [Linux 下的文件(夹)权限]()
 
 ## Ansible
 
