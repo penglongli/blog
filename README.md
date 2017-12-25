@@ -34,7 +34,8 @@
 15. [Linux 下的 grep 命令](https://github.com/penglongli/blog/issues/35)
 16. [Linux 下的 awk 命令](https://github.com/penglongli/blog/issues/36)
 17. [Linux 防火墙以及 Ubuntu 的 GFW](https://github.com/penglongli/blog/issues/49)
-18. [Linux 下的文件(夹)权限]()
+18. [Linux 下的权限问题](https://github.com/penglongli/blog/issues/61)
+19. [Linux 下的定时任务](https://github.com/penglongli/blog/issues/47)
 
 ## Ansible
 
@@ -61,8 +62,9 @@
 2. [Docker 自定义制作基础镜像](https://github.com/penglongli/blog/issues/28)
 3. [Docker 的守护进程](https://github.com/penglongli/blog/issues/52)
 4. [Docker 构建应用](https://github.com/penglongli/blog/issues/29)
-5. [Dcoker 构建 Redis 集群](docker/build_redis_cluster.md)
-6. [使用 HAProxy + Keepalived 构建基于 Docker 的高可用负载均衡服务(一)](https://github.com/penglongli/blog/issues/9)
+5. [基于 Docker 的 Jenkins](https://github.com/penglongli/blog/issues/51)
+6. [Dcoker 构建 Redis 集群](docker/build_redis_cluster.md)
+7. [使用 HAProxy + Keepalived 构建基于 Docker 的高可用负载均衡服务(一)](https://github.com/penglongli/blog/issues/9)
 
 
 ## Kubernetes
@@ -101,6 +103,11 @@
 1. [go 的字符串操作](https://github.com/penglongli/blog/issues/43)
 2. [defer 关键字使用](https://github.com/penglongli/blog/issues/44)
 3. [go 的 net/http 包的使用以及了解](https://github.com/penglongli/blog/issues/42)
+4. [go 的 Timer 和 Ticker 定时器](https://github.com/penglongli/blog/issues/56)
+5. [go 的反射](https://github.com/penglongli/blog/issues/57)
+6. [go 的 channel](https://github.com/penglongli/blog/issues/58)
+7. [go 的 slice 与数组](https://github.com/penglongli/blog/issues/59)
+8. [go 的 select](https://github.com/penglongli/blog/issues/60)
 
 
 ## Netty
