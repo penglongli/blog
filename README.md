@@ -14,6 +14,7 @@
 8. [Bash Aliases and Functions](https://github.com/penglongli/blog/issues/48)
 9. [Bash completion](https://github.com/penglongli/blog/issues/54)
 
+## PowerShell
 
 ## Linux
 
