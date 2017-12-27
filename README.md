@@ -37,6 +37,7 @@
 17. [Linux 防火墙以及 Ubuntu 的 GFW](https://github.com/penglongli/blog/issues/49)
 18. [Linux 下的权限问题](https://github.com/penglongli/blog/issues/61)
 19. [Linux 下的定时任务](https://github.com/penglongli/blog/issues/47)
+20. [Linux UpdateMotd 公告板](https://github.com/penglongli/blog/issues/66)
 
 ## Ansible
 
