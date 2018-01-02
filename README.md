@@ -110,7 +110,9 @@
 6. [go 的 channel](https://github.com/penglongli/blog/issues/58)
 7. [go 的 slice 与数组](https://github.com/penglongli/blog/issues/59)
 8. [go 的 select](https://github.com/penglongli/blog/issues/60)
-
+9. [go 的错误处理](https://github.com/penglongli/blog/issues/62)
+10. [go 的 I/O](https://github.com/penglongli/blog/issues/63)
+11. [go 的并发](https://github.com/penglongli/blog/issues/65)
 
 ## Netty
 
