@@ -13,6 +13,8 @@
 7. [Bash 运算符](https://github.com/penglongli/blog/issues/53)
 8. [Bash Aliases and Functions](https://github.com/penglongli/blog/issues/48)
 9. [Bash completion](https://github.com/penglongli/blog/issues/54)
+10. [Bash 的 IFS](https://github.com/penglongli/blog/issues/70)
+11. [Bash 格式化输出](https://github.com/penglongli/blog/issues/71)
 
 ## PowerShell
 
@@ -38,6 +40,9 @@
 18. [Linux 下的权限问题](https://github.com/penglongli/blog/issues/61)
 19. [Linux 下的定时任务](https://github.com/penglongli/blog/issues/47)
 20. [Linux UpdateMotd 公告板](https://github.com/penglongli/blog/issues/66)
+21. [Linux 下的 I/O 测试](https://github.com/penglongli/blog/issues/72)
+22. [Linux 的 socat](https://github.com/penglongli/blog/issues/67)
+22. [openSSL 使用](https://github.com/penglongli/blog/issues/69)
 
 ## Ansible
 
@@ -67,7 +72,7 @@
 5. [基于 Docker 的 Jenkins](https://github.com/penglongli/blog/issues/51)
 6. [Dcoker 构建 Redis 集群](docker/build_redis_cluster.md)
 7. [使用 HAProxy + Keepalived 构建基于 Docker 的高可用负载均衡服务(一)](https://github.com/penglongli/blog/issues/9)
-
+8. [Docker 在 Mac 下的 2375 端口问题](https://github.com/penglongli/blog/issues/68)
 
 ## Kubernetes
 
