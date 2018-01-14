@@ -8,13 +8,14 @@
 2. [Bash 脚本读取文件，根据空格分割行](https://github.com/penglongli/blog/issues/2)
 3. [Bash 下 Etcdctl 递归删除某个键](https://github.com/penglongli/blog/issues/3)
 4. [Bash 批量判断 IP 被占用](https://github.com/penglongli/blog/issues/16)
-5. [Bash 之 sed 与 envsubst 的使用](https://github.com/penglongli/blog/issues/24)
-6. [Bash 的集合](https://github.com/penglongli/blog/issues/45)
-7. [Bash 运算符](https://github.com/penglongli/blog/issues/53)
-8. [Bash Aliases and Functions](https://github.com/penglongli/blog/issues/48)
-9. [Bash completion](https://github.com/penglongli/blog/issues/54)
-10. [Bash 的 IFS](https://github.com/penglongli/blog/issues/70)
-11. [Bash 格式化输出](https://github.com/penglongli/blog/issues/71)
+5. [Bash 的集合](https://github.com/penglongli/blog/issues/45)
+6. [Bash 运算符](https://github.com/penglongli/blog/issues/53)
+7. [Bash Aliases and Functions](https://github.com/penglongli/blog/issues/48)
+8. [Bash completion](https://github.com/penglongli/blog/issues/54)
+9. [Bash 的 IFS](https://github.com/penglongli/blog/issues/70)
+10. [Bash 格式化输出](https://github.com/penglongli/blog/issues/71)
+11. [Bash 之 envsubst 的使用](https://github.com/penglongli/blog/issues/24)
+12. [Bash 之 sed 使用](https://github.com/penglongli/blog/issues/76)
 
 ## PowerShell
 
@@ -23,29 +24,32 @@
 ## Linux
 
 1. [Linux 下 screen 的使用](https://github.com/penglongli/blog/issues/4)
-2. [Linux 下 LVM 的使用](linux/lvm_use.md)
-3. [VIM 使用](https://github.com/penglongli/blog/issues/11)
-4. [Linux 下 NFS 环境搭建和使用](https://github.com/penglongli/blog/issues/12)
-5. [Linux 网络相关](https://github.com/penglongli/blog/issues/13)
-6. [Linux 常用工具](https://github.com/penglongli/blog/issues/14)
-7. [Linux 下使用 autofs 挂载 nfs](https://github.com/penglongli/blog/issues/15)
-8. [Linux strace 使用](https://github.com/penglongli/blog/issues/18)
-9. [Linux iPerf 使用](https://github.com/penglongli/blog/issues/19)
-10. [Linux cURL 的使用](https://github.com/penglongli/blog/issues/41)
-11. [Linux 下 rsync 与 scp](https://github.com/penglongli/blog/issues/20)
-12. [使用 bind98 搭建 DNS Server](https://github.com/penglongli/blog/issues/21)
-13. [Linux 下的 SSH ](https://github.com/penglongli/blog/issues/22)
-14. [Linux 下的 logrotate 与 rsylog 使用](https://github.com/penglongli/blog/issues/23)
-15. [Linux 下的 grep 命令](https://github.com/penglongli/blog/issues/35)
-16. [Linux 下的 awk 命令](https://github.com/penglongli/blog/issues/36)
+2. [VIM 使用](https://github.com/penglongli/blog/issues/11)
+3. [Linux 下 NFS 环境搭建和使用](https://github.com/penglongli/blog/issues/12)
+4. [Linux 网络相关](https://github.com/penglongli/blog/issues/13)
+5. [Linux 常用工具](https://github.com/penglongli/blog/issues/14)
+6. [Linux 下使用 autofs 挂载 nfs](https://github.com/penglongli/blog/issues/15)
+7. [Linux strace 使用](https://github.com/penglongli/blog/issues/18)
+8. [Linux iPerf 使用](https://github.com/penglongli/blog/issues/19)
+9. [Linux cURL 的使用](https://github.com/penglongli/blog/issues/41)
+10. [Linux 下 rsync 与 scp](https://github.com/penglongli/blog/issues/20)
+11. [使用 bind98 搭建 DNS Server](https://github.com/penglongli/blog/issues/21)
+12. [Linux 下的 SSH ](https://github.com/penglongli/blog/issues/22)
+13. [Linux 下的 logrotate 与 rsylog 使用](https://github.com/penglongli/blog/issues/23)
+14. [Linux 下的 grep 命令](https://github.com/penglongli/blog/issues/35)
+15. [Linux 下的 awk 命令](https://github.com/penglongli/blog/issues/36)
+16. [Linux 下的 iostat 使用](https://github.com/penglongli/blog/issues/74)
 17. [Linux 防火墙以及 Ubuntu 的 GFW](https://github.com/penglongli/blog/issues/49)
 18. [Linux 下的权限问题](https://github.com/penglongli/blog/issues/61)
 19. [Linux 下的定时任务](https://github.com/penglongli/blog/issues/47)
 20. [Linux UpdateMotd 公告板](https://github.com/penglongli/blog/issues/66)
-21. [Linux 下的 I/O 测试](https://github.com/penglongli/blog/issues/72)
+21. [Linux 下的 I/O 测试（fio、dd）](https://github.com/penglongli/blog/issues/72)
 22. [Linux 的 socat](https://github.com/penglongli/blog/issues/67)
 23. [openSSL 使用](https://github.com/penglongli/blog/issues/69)
 24. [Git 一些不常用的命令](https://github.com/penglongli/blog/issues/73)
+25. [LVM 扩容](https://github.com/penglongli/blog/issues/79)
+26. [LVM 缩容](https://github.com/penglongli/blog/issues/78)
+27. [LVM cache 使用](https://github.com/penglongli/blog/issues/77)
 
 ## Ansible
 
@@ -68,12 +72,12 @@
 
 ## Docker
 
-1. [Docker 搭建自用 registry](https://github.com/penglongli/blog/issues/17)
-2. [Docker 自定义制作基础镜像](https://github.com/penglongli/blog/issues/28)
-3. [Docker 的守护进程](https://github.com/penglongli/blog/issues/52)
-4. [Docker 构建应用](https://github.com/penglongli/blog/issues/29)
-5. [基于 Docker 的 Jenkins](https://github.com/penglongli/blog/issues/51)
-6. [Dcoker 构建 Redis 集群](docker/build_redis_cluster.md)
+1. [安装 Docker](https://github.com/penglongli/blog/issues/80)
+2. [Docker 搭建自用 registry](https://github.com/penglongli/blog/issues/17)
+3. [Docker 自定义制作基础镜像](https://github.com/penglongli/blog/issues/28)
+4. [Docker 的守护进程](https://github.com/penglongli/blog/issues/52)
+5. [Docker 构建应用](https://github.com/penglongli/blog/issues/29)
+6. [基于 Docker 的 Jenkins](https://github.com/penglongli/blog/issues/51)
 7. [使用 HAProxy + Keepalived 构建基于 Docker 的高可用负载均衡服务(一)](https://github.com/penglongli/blog/issues/9)
 8. [Docker 在 Mac 下的 2375 端口问题](https://github.com/penglongli/blog/issues/68)
 
@@ -142,14 +146,15 @@
 ## Redis
 
 1. [Redis 简介及安装](redis/guide.md)
-2. [Redis 基础存储结构](redis/store_structure.md)
-3. [Redis 发布与订阅](redis/pub_sub.md)
-4. [Redis 持久化](redis/persistence.md)
-5. [Redis 锁](redis/lock.md)
-6. [Redis 优化及扩展](redis/extend.md)
-7. [Docker + Redis 构建集群](redis/cluster.md)
-8. [Redis 使用 Lua 编程](redis/lua.md)
-9. [使用 Spring Boot + Redis 构建简单应用集群](redis/spring_redis.md)
+2. [使用 Docker 构建 Redis 集群]()
+3. [Redis 基础存储结构](redis/store_structure.md)
+4. [Redis 发布与订阅](redis/pub_sub.md)
+5. [Redis 持久化](redis/persistence.md)
+6. [Redis 锁](redis/lock.md)
+7. [Redis 优化及扩展](redis/extend.md)
+8. [Docker + Redis 构建集群](redis/cluster.md)
+9. [Redis 使用 Lua 编程](redis/lua.md)
+10. [使用 Spring Boot + Redis 构建简单应用集群](redis/spring_redis.md)
 
 
 
@@ -158,7 +163,7 @@
 
 1. [RabbitMQ 介绍]()
 
-2. [RabbitMQ 集群搭建]()
+2. [使用 Docker 搭建 RabbitMQ 集群](https://github.com/penglongli/blog/issues/75)
 
 3. [RabbitMQ 使用（Go 版本）]()
 
