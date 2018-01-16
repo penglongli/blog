@@ -162,19 +162,12 @@
 ## MQ 相关
 
 1. [RabbitMQ 介绍]()
-
 2. [使用 Docker 搭建 RabbitMQ 集群](https://github.com/penglongli/blog/issues/75)
-
 3. [RabbitMQ 使用（Go 版本）]()
-
 4. [RabbitMQ 使用（Java 版本）]()
-
-   ​
 
 
 ## Java
-
-
 
 
 
@@ -208,11 +201,10 @@
 
 ## GOF 设计模式
 
-1. [观察者模式]()
-2. [装饰者模式]()
-3. [工场模式]()
-4. [单例模式]()
-
+1. [观察者模式](https://github.com/penglongli/blog/issues/83)
+2. [装饰者模式](https://github.com/penglongli/blog/issues/84)
+3. [工厂模式](https://github.com/penglongli/blog/issues/85)
+4. [单例模式](https://github.com/penglongli/blog/issues/86)
 
 
 ## HTTP
