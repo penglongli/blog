@@ -165,14 +165,11 @@
 2. [使用 Docker 搭建 RabbitMQ 集群](https://github.com/penglongli/blog/issues/75)
 3. [RabbitMQ 的使用：Java 版本]()
 4. [RabbitMQ 的使用：Go 版本]()
-5. [RabbitMQ 延迟队列]()
+5. [RabbitMQ 死信队列]()
 6. [RabbitMQ 优先级队列]()
 7. [RabbitMQ 实现延迟队列]()
 8. [RabbitMQ 的 RPC 实现]()
-9. [RabbitMQ 的 RPC 实现]()
-10. [RabbitMQ 的 RPC 实现]()
-11. [RabbitMQ 的 RPC 实现]()
-12. [RabbitMQ 生产者的消息确认]()
+9. [RabbitMQ 生产者的消息确认]()
 
 
 ## Java
