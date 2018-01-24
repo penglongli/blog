@@ -38,7 +38,7 @@
 13. [Linux 下的 logrotate 与 rsylog 使用](https://github.com/penglongli/blog/issues/23)
 14. [Linux 下的 grep 命令](https://github.com/penglongli/blog/issues/35)
 15. [Linux 下的 awk 命令](https://github.com/penglongli/blog/issues/36)
-16. [Linux 下的 iostat 与 %steal](https://github.com/penglongli/blog/issues/74)
+16. [Linux 下的 iostat 与 %iowait、%steal、IOPS](https://github.com/penglongli/blog/issues/74)
 17. [Linux 防火墙以及 Ubuntu 的 GFW](https://github.com/penglongli/blog/issues/49)
 18. [Linux 下的权限问题](https://github.com/penglongli/blog/issues/61)
 19. [Linux 下的定时任务](https://github.com/penglongli/blog/issues/47)
