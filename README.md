@@ -15,9 +15,6 @@
 9. [Bash 的 IFS](https://github.com/penglongli/blog/issues/70)
 10. [Bash 格式化输出](https://github.com/penglongli/blog/issues/71)
 11. [Bash 之 envsubst 的使用](https://github.com/penglongli/blog/issues/24)
-12. [Bash 之 sed 使用](https://github.com/penglongli/blog/issues/76)
-
-## PowerShell
 
 
 
@@ -37,19 +34,41 @@
 12. [Linux 下的 SSH ](https://github.com/penglongli/blog/issues/22)
 13. [Linux 下的 logrotate 与 rsylog 使用](https://github.com/penglongli/blog/issues/23)
 14. [Linux 下的 grep 命令](https://github.com/penglongli/blog/issues/35)
-15. [Linux 下的 awk 命令](https://github.com/penglongli/blog/issues/36)
-16. [Linux 下的 iostat 与 %iowait、%steal、IOPS](https://github.com/penglongli/blog/issues/74)
-17. [Linux 防火墙以及 Ubuntu 的 GFW](https://github.com/penglongli/blog/issues/49)
-18. [Linux 下的权限问题](https://github.com/penglongli/blog/issues/61)
-19. [Linux 下的定时任务](https://github.com/penglongli/blog/issues/47)
-20. [Linux UpdateMotd 公告板](https://github.com/penglongli/blog/issues/66)
-21. [Linux 下的 I/O 测试（fio、dd）](https://github.com/penglongli/blog/issues/72)
-22. [Linux 的 socat](https://github.com/penglongli/blog/issues/67)
-23. [openSSL 使用](https://github.com/penglongli/blog/issues/69)
-24. [Git 一些不常用的命令](https://github.com/penglongli/blog/issues/73)
-25. [LVM 扩容](https://github.com/penglongli/blog/issues/79)
-26. [LVM 缩容](https://github.com/penglongli/blog/issues/78)
-27. [LVM cache 使用](https://github.com/penglongli/blog/issues/77)
+15. [Linux 下的 iostat 与 %iowait、%steal、IOPS](https://github.com/penglongli/blog/issues/74)
+16. [Linux 防火墙以及 Ubuntu 的 GFW](https://github.com/penglongli/blog/issues/49)
+17. [Linux 下的权限问题](https://github.com/penglongli/blog/issues/61)
+18. [Linux 下的定时任务](https://github.com/penglongli/blog/issues/47)
+19. [Linux UpdateMotd 公告板](https://github.com/penglongli/blog/issues/66)
+20. [Linux 下的 I/O 测试（fio、dd）](https://github.com/penglongli/blog/issues/72)
+21. [Linux 的 socat](https://github.com/penglongli/blog/issues/67)
+22. [openSSL 使用](https://github.com/penglongli/blog/issues/69)
+23. [Git 一些不常用的命令](https://github.com/penglongli/blog/issues/73)
+24. [LVM 扩容](https://github.com/penglongli/blog/issues/79)
+25. [LVM 缩容](https://github.com/penglongli/blog/issues/78)
+26. [LVM cache 使用](https://github.com/penglongli/blog/issues/77)
+
+
+
+## Linux gawk
+
+由于 gawk 语言太过强大，想了想还是把它单独拎出来说。
+
+关于 gawk 与 awk 的区别：gawk(GNU Awk) 是 UNIX awk 程序的 GNU 版本，目前大部分 Linux 系统用到的 awk 默认均为 gawk，可以通过 `awk --version `  看到
+
+1. [gawk 的变量与数组]()
+2. [gawk 的操作符及条件命令]()
+3. [gawk 的内建函数与自定义函数]()
+4. [gawk 应用举例]()
+
+## Linux sed
+
+sed 是个很强大的命令，单独拎出来说
+
+
+
+## PowerShell
+
+
 
 ## Ansible
 
@@ -133,6 +152,7 @@
 
 1. [Go 使用 gRPC]()
 2. [Go 使用 Docker Remote API]()
+3. [Go 使用 RabbitMQ]()
 
 ## Python
 
