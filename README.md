@@ -46,6 +46,7 @@
 24. [LVM 扩容](https://github.com/penglongli/blog/issues/79)
 25. [LVM 缩容](https://github.com/penglongli/blog/issues/78)
 26. [LVM cache 使用](https://github.com/penglongli/blog/issues/77)
+27. [Linux 的 nc](https://github.com/penglongli/blog/issues/96)
 
 
 
@@ -110,6 +111,7 @@ sed 是个很强大的命令，单独拎出来说
 1. [基于 Docker 的 Jenkins 使用](https://github.com/penglongli/blog/issues/51)
 2. [ELKF 实时日志分析平台搭建](https://github.com/penglongli/blog/issues/50)
 3. [Prometheus 监控、报警平台搭建及使用](https://github.com/penglongli/blog/issues/37)
+4. [Elasticsearch 的 range 和 scroll](https://github.com/penglongli/blog/issues/102)
 
 ## DB
 
@@ -150,9 +152,18 @@ sed 是个很强大的命令，单独拎出来说
 
 ## Golang 应用
 
-1. [Go 使用 gRPC]()
-2. [Go 使用 Docker Remote API]()
-3. [Go 使用 RabbitMQ]()
+1. [Go 使用 Docker Remote API]()
+2. [Go 使用 RabbitMQ]()
+
+
+
+## RPC 相关
+
+1. [gRPC 使用：Go 版本](https://github.com/penglongli/blog/issues/99)
+2. [gRPC 使用：Java 版本](https://github.com/penglongli/blog/issues/100)
+3. [常见 RPC 框架性能比较](https://github.com/penglongli/blog/issues/101)
+
+
 
 ## Python
 
@@ -176,6 +187,8 @@ sed 是个很强大的命令，单独拎出来说
 8. [Redis 优化及扩展](redis/extend.md)
 9. [Redis 使用 Lua 编程](redis/lua.md)
 10. [使用 Spring Boot + Redis 构建简单应用集群](redis/spring_redis.md)
+11. [Redis 使用：Java 版本](https://github.com/penglongli/blog/issues/97)
+12. [Redis 使用：Go 版本](https://github.com/penglongli/blog/issues/98)
 
 
 
