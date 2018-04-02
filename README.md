@@ -17,7 +17,6 @@
 11. [Bash 之 envsubst 的使用](https://github.com/penglongli/blog/issues/24)
 
 
-
 ## Linux
 
 1. [Linux 下 screen 的使用](https://github.com/penglongli/blog/issues/4)
@@ -66,8 +65,7 @@
 sed 是个很强大的命令，单独拎出来说
 
 
-
-## PowerShell
+## Haskell
 
 
 
@@ -100,6 +98,9 @@ sed 是个很强大的命令，单独拎出来说
 6. [基于 Docker 的 Jenkins](https://github.com/penglongli/blog/issues/51)
 7. [使用 HAProxy + Keepalived 构建基于 Docker 的高可用负载均衡服务(一)](https://github.com/penglongli/blog/issues/9)
 8. [Docker 在 Mac 下的 2375 端口问题](https://github.com/penglongli/blog/issues/68)
+
+## Docker 原理相关
+
 
 ## Kubernetes
 
@@ -147,8 +148,7 @@ sed 是个很强大的命令，单独拎出来说
 10. [go 的 I/O](https://github.com/penglongli/blog/issues/63)
 11. [go 的并发](https://github.com/penglongli/blog/issues/65)
 12. [go 的 context](https://github.com/penglongli/blog/issues/95)
-
-
+13. [go 的 select 与 Linux 的 epoll]()
 
 ## Golang 应用
 
@@ -168,13 +168,6 @@ sed 是个很强大的命令，单独拎出来说
 ## Python
 
 
-
-## Netty
-
-1. [Netty 简介及安装](netty/guide.md)
-2. [Java IO 与 NIO](netty/io_nio.md)
-
-
 ## Redis
 
 1. [Redis 简介及安装](redis/guide.md)
@@ -192,7 +185,6 @@ sed 是个很强大的命令，单独拎出来说
 
 
 
-
 ## MQ 相关
 
 1. [RabbitMQ 介绍]()
@@ -206,36 +198,44 @@ sed 是个很强大的命令，单独拎出来说
 9. [RabbitMQ 生产者的消息确认]()
 
 
-## Java
+## Java 基础
+1. [Java 的集合相关]()
+2. [Java 方法按值传递]()
+3. [Java 的反射及优化]()
+4. [Java 的代理（动态代理、静态代理、cglib 代理）]()
+5. [Java 实现回调]()
+6. [Java 事件与监听器]()
+7. [Java Annotation 使用]()
 
+## Java Web
 
-
-## Java 高并发
-
-1. [同步与异步]()
-2. [并发与并行]()
-3. [阻塞与非阻塞]()
-4. [线程与进程]()
-5. [Java 线程池]()
-
+1. [Servlet 多线程安全性问题]()
+2. [Spring IoC 原理分析]()
+3. [Spring AOP 原理分析]()
 
 
 ## JVM
 
 1. [JVM 内存区域和 OOM](https://github.com/penglongli/blog/issues/10)
 2. [JVM 内存溢出及栈溢出演示](jvm/memory_out_sample.md)
-3. [JVM 内存区域设定及计算](jvm/memory_calc.md)
-4. [Java 的垃圾收集](jvm/gc.md)
+4. [Java GC 介绍](jvm/gc.md)
 5. [JVM 监控工具及故障处理工具](jvm/monitor.md)
-6. [JVM 调优](jvm/adjust_optimize.md)
-7. [JVM 字节码文件结构](jvm/class_structure.md)
-8. [JVM 类加载机制](jvm/class_loader.md)
-9. [代码优化（一）](jvm/code_optimize_1.md)
-10. [代码优化（二）](jvm/code_optimize_2.md)
+6. [JVM 调优相关]()
 
 
-## Spring
+## Java 并发
+1. [Java 线程使用]()
+2. [Java 的 ThreadLocal]()
+3. [Java volatile 和 atomic]()
+4. [Java 的 Synchronized]()
+5. [死锁以及诊断和避免]()
+6. [线程的开销]()
+7. [如何减小锁的竞争?]()
+8. [Java 的线程通信]()
+9. [Java 线程池原理及简单实现]()
+10. [CAS 原理及实现]()
 
+## Netty
 
 
 ## GOF 设计模式
@@ -246,32 +246,19 @@ sed 是个很强大的命令，单独拎出来说
 4. [单例模式](https://github.com/penglongli/blog/issues/86)
 
 
-## HTTP
+## 网络相关
 
-1. [HTTP 请求过程]()
-2. [HTTP 与 TCP 对比]()
-3. [HTTP 1/2/3 对比]()
-
-## TCP/IP
-
-
-
-## 网络
-
-1. [OSI 七层]()
-2. [我们平常说的带宽与网速]()
-3. [IP、子网掩码、网桥]()
-4. [子网划分、路由以及下一跳的计算]()
-5. [IPv4 与 IPv6 以及 IP 多播]()
-6. [TCP 与 UDP]()
-7. [我们的手机通话、视频、音频如何传输？]()
+1. [OSI 七层与四层协议]()
+2. [HTTP 请求过程]()
+3. [HTTP 1.0 1.1 2.0 对比]()
+4. [TCP 的三次握手与四次挥手]()
+5. [TCP 与 UDP 之间区别]()
+6. [IPv4 与 IPv6 以及 IP 多播]()
+7. [子网划分、路由以及下一跳的计算]()
 8. [ARP 协议]()
 9. [DHCP 协议]()
 
-
-
 ## 操作系统
-
 
 
 ## 算法
@@ -284,7 +271,6 @@ sed 是个很强大的命令，单独拎出来说
 6. [树]()
 7. [图]()
 8. [LeetCode 刷题]()
-
 
 
 ## 网络安全
