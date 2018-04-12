@@ -141,20 +141,24 @@ sed 是个很强大的命令，单独拎出来说
 3. [go 的 net/http 包的使用以及了解](https://github.com/penglongli/blog/issues/42)
 4. [go 的 Timer 和 Ticker 定时器](https://github.com/penglongli/blog/issues/56)
 5. [go 的反射](https://github.com/penglongli/blog/issues/57)
-6. [go 的 channel](https://github.com/penglongli/blog/issues/58)
 7. [go 的 slice 与数组](https://github.com/penglongli/blog/issues/59)
-8. [go 的 select](https://github.com/penglongli/blog/issues/60)
+8. [go 的 select 与 epoll](https://github.com/penglongli/blog/issues/60)
 9. [go 的错误处理](https://github.com/penglongli/blog/issues/62)
 10. [go 的 I/O](https://github.com/penglongli/blog/issues/63)
-11. [go 的并发](https://github.com/penglongli/blog/issues/65)
 12. [go 的 context](https://github.com/penglongli/blog/issues/95)
-13. [go 的 select 与 Linux 的 epoll]()
+
+## Golang 的并发
+1. [进程、线程、协程](https://github.com/penglongli/blog/issues/65)
+2. [Go 的 atomic 和 Mutex]()
+2. [Go 的 channel 使用](https://github.com/penglongli/blog/issues/58)
 
 ## Golang 应用
 
 1. [Go 使用 Docker Remote API]()
 2. [Go 使用 RabbitMQ]()
-
+3. [Go 使用 Redis]()
+4. [Go 实现 BlockingQueue]()
+5. [Go 实现数据库连接池]()
 
 
 ## RPC 相关
@@ -224,11 +228,18 @@ sed 是个很强大的命令，单独拎出来说
 
 
 ## Java 并发
-1. [Java 线程使用]()
-2. [Java 的 ThreadLocal]()
-3. [Java volatile 和 atomic]()
-4. [Java 的 Synchronized]()
-5. [死锁以及诊断和避免]()
+1. [Java 线程的创建和状态](https://github.com/penglongli/blog/issues/108)
+2. [Java 线程的中断](https://github.com/penglongli/blog/issues/109)
+3. [Java 的 Callable、Future](https://github.com/penglongli/blog/issues/110)
+2. [Java 线程的封闭性与 ThreadLocal](https://github.com/penglongli/blog/issues/111)
+3. [Java volatile 和 atomic](https://github.com/penglongli/blog/issues/112)
+4. [Java 线程池](https://github.com/penglongli/blog/issues/113)
+4. [Java 的 Synchronized](https://github.com/penglongli/blog/issues/114)
+5. [ReentrantLock、Codition 介绍](https://github.com/penglongli/blog/issues/115)
+6. [ReentrantLock、ReentrantReadWriteLock 原理及公平性]()
+7. [Java 线程通信与进程通信总结]()
+7. [AQS 简单介绍]()
+5. [死锁的诊断和避免]()
 6. [线程的开销]()
 7. [如何减小锁的竞争?]()
 8. [Java 的线程通信]()
