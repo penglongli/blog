@@ -142,6 +142,10 @@ sed 是个很强大的命令，单独拎出来说
 4. [go 的 Timer 和 Ticker 定时器](https://github.com/penglongli/blog/issues/56)
 5. [go 的反射](https://github.com/penglongli/blog/issues/57)
 7. [go 的 slice 与数组](https://github.com/penglongli/blog/issues/59)
+8. [go 的 interface{}]()
+8. [go 的 function types]()
+9. [go 的 struct]()
+9. [go 的 nil]()
 8. [go 的 select 与 epoll](https://github.com/penglongli/blog/issues/60)
 9. [go 的错误处理](https://github.com/penglongli/blog/issues/62)
 10. [go 的 I/O](https://github.com/penglongli/blog/issues/63)
@@ -149,15 +153,16 @@ sed 是个很强大的命令，单独拎出来说
 
 ## Golang 的并发
 1. [进程、线程、协程](https://github.com/penglongli/blog/issues/65)
-2. [Go 的 atomic 和 Mutex]()
+2. [Go 的 atomic 和 Mutex](https://github.com/penglongli/blog/issues/116)
 2. [Go 的 channel 使用](https://github.com/penglongli/blog/issues/58)
+3. [Go channel 公理]()
+3. [Go 的死锁问题]()
 
 ## Golang 应用
 
 1. [Go 使用 Docker Remote API]()
 2. [Go 使用 RabbitMQ]()
 3. [Go 使用 Redis]()
-4. [Go 实现 BlockingQueue]()
 5. [Go 实现数据库连接池]()
 
 
@@ -203,8 +208,8 @@ sed 是个很强大的命令，单独拎出来说
 
 
 ## Java 基础
-1. [Java 的集合相关]()
-2. [Java 方法按值传递]()
+1. [Java 的集合相关](https://github.com/penglongli/blog/issues/117)
+2. [Java 方法按值传递](https://github.com/penglongli/blog/issues/118)
 3. [Java 的反射及优化]()
 4. [Java 的代理（动态代理、静态代理、cglib 代理）]()
 5. [Java 实现回调]()
@@ -214,7 +219,7 @@ sed 是个很强大的命令，单独拎出来说
 ## Java Web
 
 1. [Servlet 多线程安全性问题]()
-2. [Spring IoC 原理分析]()
+2. [Spring IoC 原理简单分析](https://github.com/penglongli/blog/issues/119)
 3. [Spring AOP 原理分析]()
 
 
@@ -252,6 +257,7 @@ sed 是个很强大的命令，单独拎出来说
 ## GOF 设计模式
 
 1. [观察者模式](https://github.com/penglongli/blog/issues/83)
+2. [发布-订阅模式](https://github.com/penglongli/blog/issues/120)
 2. [装饰者模式](https://github.com/penglongli/blog/issues/84)
 3. [工厂模式](https://github.com/penglongli/blog/issues/85)
 4. [单例模式](https://github.com/penglongli/blog/issues/86)
