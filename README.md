@@ -1,6 +1,32 @@
 # 笔记
 
-目前很多文章都只是一个目录，并没有内容。
+## Kubernetes 使用
+
+1. [OpenShift 3.9 安装](https://github.com/penglongli/blog/issues/124)
+2. [k8s + Calico + Kata 安装](https://github.com/penglongli/blog/issues/125)
+3. [k8s 原理介绍](https://github.com/penglongli/blog/issues/126)
+4. [OCI、CRI、CNI 以及 Runtime 介绍](https://github.com/penglongli/blog/issues/127)
+
+## Kubernetes 开发
+
+1. [使用 golang 操作 k8s](https://github.com/penglongli/blog/issues/128)
+
+## Kubernetes 源码分析
+
+1. [kube-scheduler 代码分析](https://github.com/penglongli/blog/issues/129)
+
+## Docker
+
+1. [安装 Docker](https://github.com/penglongli/blog/issues/80)
+2. [Docker 搭建自用 registry](https://github.com/penglongli/blog/issues/17)
+3. [Docker 自定义制作基础镜像](https://github.com/penglongli/blog/issues/28)
+4. [Docker 的守护进程](https://github.com/penglongli/blog/issues/52)
+5. [Docker 构建应用](https://github.com/penglongli/blog/issues/29)
+6. [基于 Docker 的 Jenkins](https://github.com/penglongli/blog/issues/51)
+7. [使用 HAProxy + Keepalived 构建基于 Docker 的高可用负载均衡服务(一)](https://github.com/penglongli/blog/issues/9)
+8. [Docker 在 Mac 下的 2375 端口问题](https://github.com/penglongli/blog/issues/68)
+
+## Docker 原理相关
 
 ## Bash
 
@@ -88,25 +114,6 @@ sed 是个很强大的命令，单独拎出来说
 6. [Nginx 使用（四）：日志]()
 7. [Tengine 常用模块](https://github.com/penglongli/blog/issues/34)
 
-## Docker
-
-1. [安装 Docker](https://github.com/penglongli/blog/issues/80)
-2. [Docker 搭建自用 registry](https://github.com/penglongli/blog/issues/17)
-3. [Docker 自定义制作基础镜像](https://github.com/penglongli/blog/issues/28)
-4. [Docker 的守护进程](https://github.com/penglongli/blog/issues/52)
-5. [Docker 构建应用](https://github.com/penglongli/blog/issues/29)
-6. [基于 Docker 的 Jenkins](https://github.com/penglongli/blog/issues/51)
-7. [使用 HAProxy + Keepalived 构建基于 Docker 的高可用负载均衡服务(一)](https://github.com/penglongli/blog/issues/9)
-8. [Docker 在 Mac 下的 2375 端口问题](https://github.com/penglongli/blog/issues/68)
-
-## Docker 原理相关
-
-
-## Kubernetes
-
-1. [从零搭建一个简单的 Kubernetes 集群](https://github.com/penglongli/blog/issues/25)
-
-
 ## 运维相关
 
 1. [基于 Docker 的 Jenkins 使用](https://github.com/penglongli/blog/issues/51)
@@ -125,7 +132,6 @@ sed 是个很强大的命令，单独拎出来说
 7. [MariaDB/MySQL 分库分表]()
 8. [数据库优化及 SQL 优化]()
 9. [MariaDB/MySQL 集群]()
-
 
 
 ## Etcd
