@@ -4,8 +4,7 @@
 
 1. [OpenShift 3.9 安装](https://github.com/penglongli/blog/issues/124)
 2. [k8s + Calico + Kata Runtime 安装](https://github.com/penglongli/blog/issues/125)
-3. [k8s 原理介绍](https://github.com/penglongli/blog/issues/126)
-4. [OCI、CRI、CNI 以及 Runtime 介绍](https://github.com/penglongli/blog/issues/127)
+3. [k8s 组件，以及 OCI、CRI、CNI介绍](https://github.com/penglongli/blog/issues/126)
 
 ## Kubernetes 开发
 
